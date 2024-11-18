@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Ahmet Yılmaz</h1>
+<h1 align="center">Hi 👋, I'm Ahmet Yılmaz</h1>
 <h3 align="center">I’m a developer experienced in building mobile apps for small and medium-sized businesses. Using Flutter, I create user-friendly, modern, and high-performance mobile applications.</h3>
 
 - 🔭 I’m currently working on **Service Tracking Software**
