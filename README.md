@@ -1,12 +1,5 @@
-![MasterHead](https://avatars.githubusercontent.com/u/70190607?v=4)
-
-
-
-
 <h1 align="center">Hi 👋, I'm Ahmet Yılmaz</h1>
 <h3 align="center">I’m a developer experienced in building mobile apps for small and medium-sized businesses. Using Flutter, I create user-friendly, modern, and high-performance mobile applications.</h3>
-
-
 
 - 🔭 I’m currently working on **Service Tracking Software**
 
@@ -29,7 +22,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmetyilmazz&show_icons=true&locale=en&layout=compact" alt="ahmetyilmazz" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmetyilmazz&show_icons=true&locale=en" alt="ahmetyilmazz" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmetyilmazz&" alt="ahmetyilmazz" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmetyilmazz&label=Profile%20views&color=0e75b6&style=flat" alt="ahmetyilmazz" /> </p>
