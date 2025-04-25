@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Service Tracking Software v2](https://github.com/Ahmetyilmazz/Service-Tracking-Software_v2)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React and C#**
 
 - 👨‍💻 All of my projects are available at [https://ahmetyilmazz.github.io/](https://ahmetyilmazz.github.io/)
 
