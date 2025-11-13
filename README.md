@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on [Service Tracking Software v2](https://github.com/Ahmetyilmazz/Mesajlasma-Uygulamasi)
+- 🔭 I’m currently working on [Mesajlaşma Uygulaması - ChatApp](https://github.com/Ahmetyilmazz/Mesajlasma-Uygulamasi)
 
 - 🌱 I’m currently learning **React and Next.js**
 
